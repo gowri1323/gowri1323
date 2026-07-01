@@ -3,7 +3,7 @@
 **Front-End Developer | AI-Integrated Web Solutions | UI/UX**
 
 - Location: Salem, Tamil Nadu, India
-- Email: 2k23cse051@kiot.ac.in
+- Email: 2k23cse051@kiot.ac.in , gowri13905@gmail.com
 - LinkedIn: https://linkedin.com/in/gowri
 - GitHub: https://github.com/gowri1
 
@@ -87,30 +87,6 @@ Front-end developer with hands-on experience building **responsive web applicati
 
 ---
 
-## Achievements & Activities
-
-**Publications**
-- Research Paper – "Cancer Sniffer Patch", International Journal of Advanced Science and Engineering Research (IJASER)
-
-**Leadership**
-- **Chair**, IEEE Computer Society Student Branch Chapter, KIOT (Jan 2026 – Present)
-  - Organized a UI/UX workshop for second-year juniors
-  - Led and coordinated multiple campus events and expos
-  - Guided student participation and handled event planning across the institute
-
-**Conferences & Hackathons**
-- Finalist (Jury Round), NASSCOM National Hackathon, Chennai
-- 36-Hour Hackathon, M. Kumarasamy College
-- 24-Hour DEVSPARK Hackathon, KPR Institute of Technology
-- TANCAM Women's Hackathon, KIT, Coimbatore
-- Presented papers and projects at inter-college symposiums
-
-**Certifications**
-- Japanese Language Proficiency Test (JLPT N5)
-- Oracle Database Foundation Certification
-
----
-
 ## Education
 
 **Bachelor of Engineering, Computer Science**
@@ -133,10 +109,4 @@ Percentage: 85.6%
 - Tamil
 - English
 
----
-
-## Contact
-
-- Email: 2k23cse051@kiot.ac.in
-- LinkedIn: https://linkedin.com/in/gowri
-- GitHub: https://github.com/gowri1
+ 
